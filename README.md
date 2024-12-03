@@ -12,7 +12,13 @@ Your personal assistant for all things Windows! 🎉
 </div>
 
 
-https://github.com/user-attachments/assets/1294e7ef-d3d6-4104-8f33-0c5ccc9a5c1a
+## Demo
+
+Check out the demo video below:
+
+[![Demo Video](https://img.youtube.com/vi/obNhmVlXt1o/0.jpg)](https://www.youtube.com/watch?v=obNhmVlXt1o)
+
+Or click [here](https://www.youtube.com/watch?v=obNhmVlXt1o) to watch the video directly on YouTube.
 
 
 
